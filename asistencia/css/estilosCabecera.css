@@ -1,0 +1,33 @@
+/*modificaciones globales*/
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+/* header */
+header {
+	position: sticky;
+	top: 0;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color: #E0FFFF;
+	border-bottom: 1px solid #AFEEEE;
+	font-family: Times New Roman;
+	font-size: 1.3rem;
+}
+nav ul {
+	display: flex;
+	justify-content: center;
+	list-style: none;
+}
+
+nav ul li {
+	margin-left: 20px;
+	margin-right: 20px;
+	padding: 5px 10px;
+	background-color: #AFEEEE;
+}
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+}
