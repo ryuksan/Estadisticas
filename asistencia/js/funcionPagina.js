@@ -50,7 +50,7 @@ function pagina (){
   }
   let propiedades = {
     creditosPagina: cortes.corte_0.creditos + cortes.corte_1.creditos + cortes.corte_2.creditos + cortes.corte_3.creditos + cortes.corte_4.creditos + cortes.corte_5.creditos + cortes.corte_6.creditos + cortes.corte_7.creditos + cortes.corte_8.creditos + cortes.corte_9.creditos,
-    moneda: 5200,
+    moneda: document.getElementById('m').value,
     descuentoPagina: 0.70044843,
 	descuentoStudio: 0.8}
 
