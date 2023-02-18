@@ -10,7 +10,7 @@ function pagina (){
 	obj = Object.assign({fecha: corte[0], creditos: parseFloat(corte[1])})
 	  
 	let cortes = {
-	  corte_0: { fecha: '06/02/2023 14:33', creditos: 0 },
+	  corte_0: { fecha: null, creditos: null },
 	  corte_1: { fecha: null, creditos: null },
 	  corte_2: { fecha: null, creditos: null },
 	  corte_3: { fecha: null, creditos: null },
