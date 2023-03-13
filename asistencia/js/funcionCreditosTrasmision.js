@@ -2,29 +2,28 @@
 
 //funcion para creditos de la trasmision.
 
+function t() {
+  const descuentoTrasmision1 = 0.950138504;
+  const descuentoTrasmision2 = 0.970452447;
+  const descuentoStudio = 0.70044843;
+  const descuentoPagina = 0.8;
+  let moneda = document.getElementById("m").value;
 
-function t (){
-	const descuentoTrasmision1 = 0.950138504;
-	const descuentoTrasmision2 = 0.970452447;
-	const descuentoStudio = 0.70044843;
-	const descuentoPagina = 0.8;
+  let propiedades = {
+    creditosTrasmision: document.getElementById("creditos").value,
+    moneda: document.getElementById("m").value,
+    descuentoTrasmision1: descuentoTrasmision1,
+    descuentoTrasmision2: descuentoTrasmision2,
+    descuentoPagina: descuentoPagina,
+    descuentoStudio: descuentoStudio,
+  };
 
-	let propiedades = {
-	creditosTasmision: document.getElementById('creditos').value,
-	moneda: document.getElementById('m').value,
-	descuentoTrasmision1: descuentoTrasmision1,
-	descuentoTrasmision2: descuentoTrasmision2,
-	descuentoPagina: descuentoPagina,
-	descuentoStudio: descuentoStudio}
+  propiedades.creditosTrasmision *= propiedades.descuentoTrasmision1;
+  propiedades.creditosTrasmision *= propiedades.descuentoTrasmision2;
+  propiedades.creditosTrasmision *= propiedades.descuentoPagina;
+  propiedades.creditosTrasmision *= propiedades.descuentoStudio;
+  propiedades.creditosTrasmision *= propiedades.moneda;
 
-	
-	
-	propiedades.creditosTasmision *= propiedades.descuentoTrasmision1;
-	propiedades.creditosTasmision *= propiedades.descuentoTrasmision2;
-	propiedades.creditosTasmision *= propiedades.descuentoPagina;
-	propiedades.creditosTasmision *= propiedades.descuentoStudio;
-	propiedades.creditosTasmision *= propiedades.moneda;
-	
-	
-	document.getElementById('result').innerHTML = propiedades.creditosTasmision.toFixed(2);
+  document.getElementById("result").innerHTML =
+    propiedades.creditosTrasmision.toFixed(2);
 }

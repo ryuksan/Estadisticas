@@ -1,4 +1,4 @@
-// funcion para creditos del estudio.
+// funcion para creditos del studio.
 function studio (){
 	let propiedades = {creditosStudio: 1,
 	moneda: 5200,

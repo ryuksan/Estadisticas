@@ -7,7 +7,7 @@ window.addEventListener("resize", anchoPage);
 var formularioLogin = document.querySelector(".formularioLogin");
 var formularioRegister = document.querySelector(".formularioRegister");
 var contenedorLoginRegister = document.querySelector(".contenedorLoginRegister");
-var cajaTraseraLogin = document.querySelector(".cajaRraseraLogin");
+var cajaTraseraLogin = document.querySelector(".cajaTraseraLogin");
 var cajaTraseraRegister = document.querySelector(".cajaTraseraRegister");
 
     //FUNCIONES

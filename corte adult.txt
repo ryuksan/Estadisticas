@@ -1,0 +1,64 @@
+01/02/2023 22:10	Debit	DirectCam - Facility Fee blondega	-0.00	3.27	
+01/02/2023 22:10	Debit	DirectCam - Advisor Fee blondega	-0.00	3.27	
+01/02/2023 22:10	Credit	DirectCam - blondega	0.03	3.30	
+01/02/2023 22:15	Debit	DirectCam - Facility Fee ogara1992	-0.68	2.62	
+01/02/2023 22:15	Debit	DirectCam - Advisor Fee ogara1992	-0.41	2.21	
+01/02/2023 22:15	Credit	DirectCam - ogara1992	13.58	15.79	Transfer Requested on 03/02/2023
+02/02/2023 00:24	Debit	DirectCam - Facility Fee kirby7	-0.12	15.67	
+02/02/2023 00:24	Debit	DirectCam - Advisor Fee kirby7	-0.07	15.60	
+02/02/2023 00:24	Credit	DirectCam - kirby7	2.41	18.01	
+02/02/2023 00:27	Debit	DirectCam - Facility Fee Markkos111	-0.15	17.85	
+02/02/2023 00:27	Debit	DirectCam - Advisor Fee Markkos111	-0.09	17.76	
+02/02/2023 00:27	Credit	DirectCam - Markkos111	3.08	20.84	Transfer Requested on 03/02/2023
+02/02/2023 00:59	Debit	DirectCam - Facility Fee C-harlie114	-0.12	20.72	
+02/02/2023 00:59	Debit	DirectCam - Advisor Fee C-harlie114	-0.07	20.65	
+02/02/2023 00:59	Credit	DirectCam - C-harlie114 (Was 2.38)	0.17	20.82	Transfer Requested on 03/02/2023
+03/02/2023 15:43	Credit	Transfer Req. Fix - Credits from Previous	2.21	23.03	
+03/02/2023 15:43	Debit	Group Transfer to Cosmo Payment - 000000794	-23.03	0.00	
+03/02/2023 23:57	Debit	DirectCam - Facility Fee Domdomx2	-0.00	-0.00	
+03/02/2023 23:57	Debit	DirectCam - Advisor Fee Domdomx2	-0.00	-0.00	
+03/02/2023 23:57	Credit	DirectCam - Domdomx2	0.04	0.04	Transfer Requested on 06/02/2023
+05/02/2023 22:23	Debit	DirectCam - Facility Fee Chad443	-0.09	-0.05	
+05/02/2023 22:23	Debit	DirectCam - Advisor Fee Chad443	-0.05	-0.11	
+05/02/2023 22:23	Credit	DirectCam - Chad443	1.79	1.68	Transfer Requested on 08/02/2023
+06/02/2023 00:13	Debit	DirectCam - Facility Fee flx501	-0.00	1.68	
+06/02/2023 00:13	Debit	DirectCam - Advisor Fee flx501	-0.00	1.68	
+06/02/2023 00:13	Credit	DirectCam - flx501	0.09	1.77	Transfer Requested on 08/02/2023
+06/02/2023 00:14	Debit	DirectCam - Facility Fee Christian2	-0.32	1.44	
+06/02/2023 00:14	Debit	DirectCam - Advisor Fee Christian2	-0.19	1.25	
+06/02/2023 00:14	Credit	DirectCam - Christian2	6.49	7.74	Transfer Requested on 08/02/2023
+06/02/2023 00:53	Debit	DirectCam - Facility Fee Chad443	-0.05	7.68	
+06/02/2023 00:53	Debit	DirectCam - Advisor Fee Chad443	-0.03	7.65	
+06/02/2023 00:53	Credit	DirectCam - Chad443	1.08	8.73	Transfer Requested on 08/02/2023
+06/02/2023 14:33	Debit	Group Transfer to Cosmo Payment - 000000794	-0.04	8.69	
+06/02/2023 19:51	Debit	DirectCam - Facility Fee dddteleeeeee	-0.08	8.62	
+06/02/2023 19:51	Debit	DirectCam - Advisor Fee dddteleeeeee	-0.05	8.57	
+06/02/2023 19:51	Credit	DirectCam - dddteleeeeee	1.51	10.08	Transfer Requested on 08/02/2023
+06/02/2023 23:07	Credit	DirectCam tip from bloomingdales (6007881675724036)	5.00	15.08	Transfer Requested on 08/02/2023
+06/02/2023 23:07	Debit	DirectCam - Facility Fee bloomingdales	-0.93	14.15	
+06/02/2023 23:07	Debit	DirectCam - Advisor Fee bloomingdales	-0.56	13.59	
+06/02/2023 23:07	Credit	DirectCam - bloomingdales	18.57	32.16	Transfer Requested on 08/02/2023
+07/02/2023 02:49	Debit	DirectCam - Facility Fee lxrxnzx	-0.02	32.14	
+07/02/2023 02:49	Debit	DirectCam - Advisor Fee lxrxnzx	-0.01	32.13	
+07/02/2023 02:49	Credit	DirectCam - lxrxnzx	0.40	32.53	Transfer Requested on 08/02/2023
+08/02/2023 02:25	Debit	DirectCam - Facility Fee londonloverboy	-0.32	32.21	
+08/02/2023 02:25	Debit	DirectCam - Advisor Fee londonloverboy	-0.19	32.02	
+08/02/2023 02:25	Credit	DirectCam - londonloverboy	6.43	38.45	Transfer Requested on 10/02/2023
+08/02/2023 14:45	Debit	Group Transfer to Cosmo Payment - 000000794	-34.93	3.52	
+08/02/2023 23:29	Debit	DirectCam - Facility Fee shotbyjoseph	-0.28	3.24	
+08/02/2023 23:29	Debit	DirectCam - Advisor Fee shotbyjoseph	-0.17	3.07	
+08/02/2023 23:29	Credit	DirectCam - shotbyjoseph	5.57	8.64	Transfer Requested on 10/02/2023
+08/02/2023 23:59	Debit	DirectCam - Facility Fee Markkos111	-0.40	8.24	
+08/02/2023 23:59	Debit	DirectCam - Advisor Fee Markkos111	-0.24	8.01	
+08/02/2023 23:59	Credit	DirectCam - Markkos111 (Was 7.95)	3.96	11.96	Transfer Requested on 10/02/2023
+10/02/2023 15:21	Credit	Transfer Req. Fix - Credits from Previous	3.99	15.96	
+10/02/2023 15:22	Debit	Group Transfer to Cosmo Payment - 000000794	-15.96	0.00	
+13/02/2023 00:22	Debit	DirectCam - Facility Fee shhibby	-0.33	-0.33	
+13/02/2023 00:22	Debit	DirectCam - Advisor Fee shhibby	-0.20	-0.53	
+13/02/2023 00:22	Credit	DirectCam - shhibby	6.60	6.07	Available for Transfer on 14/02/2023 at 00:22
+13/02/2023 01:03	Debit	DirectCam - Facility Fee Markkos111	-0.32	5.75	
+13/02/2023 01:03	Debit	DirectCam - Advisor Fee Markkos111	-0.19	5.55	
+13/02/2023 01:03	Credit	DirectCam - Markkos111	6.48	12.03	Available for Transfer on 14/02/2023 at 01:03
+13/02/2023 01:49	Debit	DirectCam - Facility Fee kaaan	-0.26	11.77	
+13/02/2023 01:49	Debit	DirectCam - Advisor Fee kaaan	-0.16	11.61	
+13/02/2023 01:49	Credit	DirectCam - kaaan	5.27	16.88	Available for Transfer on 14/02/2023 at 01:49
