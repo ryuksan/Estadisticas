@@ -15,7 +15,6 @@ function pagina() {
   //creacion de doble arreglo para el correcto almacenamiento del split
   for (let i of array) {
     array2.push([i]);
-    yarn.lock;
   }
   // implementation del split con doble for para llegar a el segundo array
   for (let m of array2) {
